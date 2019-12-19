@@ -1,0 +1,101 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+16181556,gorgeous room,105659624,Marisa,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49334729298194,13.422086662017445,Private room,2,0,,,1,0
+866332,For the quite global individualist,4551377,Sabine,Pankow,Blankenfelde/Niederschönhausen,52.58789183264037,13.394384211348688,Private room,4,5,2018-09-19,0.08,1,87
+1152925,Berlin's Historic Centre,5766645,Anakay,Mitte,Alexanderplatz,52.52878030574897,13.382733412479045,Private room,1,58,2018-09-24,0.9,1,361
+22044007,Best Central Location Alexanderplatz,147746853,Michael,Mitte,Alexanderplatz,52.52568732764353,13.410215530413456,Entire home/apt,11,10,2018-09-27,0.96,1,12
+27564325,Cosy nest in the heart of east Berlin!,207967083,Johann,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.516709665585225,13.45462638982042,Private room,3,9,2018-10-21,2.93,1,70
+22352409,Cozy room in Charlottenburg/ 5mins to Kudamm,9086049,Francesca,Charlottenburg-Wilm.,Neue Kantstraße,52.502873796966774,13.303420816486941,Private room,1,11,2018-10-03,2.16,1,69
+3426884,Zimmer in Charlottenburger Familienwohnung,7724377,Anna,Charlottenburg-Wilm.,Neue Kantstraße,52.50561783942714,13.29384172882299,Private room,30,1,2018-08-24,0.39,1,0
+28507631,Youre Home in Berlin,97305151,Alexander,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.51977386114645,13.454555378063658,Private room,3,0,,,1,337
+7624902,Beautiful Large Room in Neukölln/Kreuzberg,39996875,Mathias,Neukölln,Reuterstraße,52.48638956546439,13.424766595405297,Private room,3,11,2017-03-12,0.29,1,0
+24663119,Sunny room with balkony in lovely Friedrichshain,186399123,Markus,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.5105227345508,13.46620829362739,Shared room,1,1,2018-05-01,0.16,1,0
+25416507,Spacious and minimalistic room on  Weserstraße,5595570,Peter,Neukölln,Reuterstraße,52.484818583702854,13.43510804810143,Private room,4,9,2018-10-09,1.72,1,14
+6499198,Berlin-Charlottenburg 10627,33971648,Britt,Charlottenburg-Wilm.,Schloß Charlottenburg,52.511073584946686,13.300371511090365,Entire home/apt,3,0,,,1,0
+19008890,Cozy apartment in Kreuzberg,132617275,Marcos,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.489784652616905,13.41897664200333,Entire home/apt,3,8,2018-05-13,0.46,1,185
+941115,Zimmer Seepferdchen,2677541,Dimitri,Treptow - Köpenick,Schmöckwitz/Karolinenhof/Rauchfangswerder,52.34764521349191,13.643330107023976,Private room,2,0,,,4,0
+23983541,Cozy & bright apartment in Wedding (Sprengelkiez),16367187,Jule,Mitte,Wedding Zentrum,52.539755516278895,13.356937711789561,Private room,2,15,2018-09-28,2.23,1,51
+16322617,Perfect Berlinale Apartment - *Amazing Location*,11326421,Michael,Mitte,Tiergarten Süd,52.50437350025359,13.366438510185366,Entire home/apt,3,0,,,1,0
+20489192,"Big nice room, shared Apartment",39019991,Patrick,Mitte,Osloer Straße,52.5604213868742,13.38118021015063,Private room,1,4,2018-10-12,0.27,1,361
+588554,Studio room cosy kreuzberg,1744018,Kay,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48860879189514,13.394506986984467,Private room,2,46,2018-10-20,0.6,2,0
+23496868,Private room - 15 minutes to city center,89551529,Harshit,Lichtenberg,Alt-Hohenschönhausen Süd,52.5358854444445,13.503815328295527,Private room,2,18,2018-09-25,2.28,1,0
+24980242,Apartment am KaDeWe,188849025,Bärbel,Tempelhof - Schöneberg,Schöneberg-Nord,52.50029698877522,13.343123462658275,Entire home/apt,1,39,2018-11-02,6.8,2,113
+14782049,cosy and quiet yet central,12839672,Melanie,Mitte,Brunnenstr. Süd,52.53785768107258,13.379105944028478,Entire home/apt,2,4,2017-10-15,0.16,1,279
+20369353,"Room in big, cosy apartment",37797319,Jo,Mitte,Wedding Zentrum,52.541293448391365,13.36079717929777,Private room,2,16,2018-11-04,1.13,1,14
+11519877,Luxury flat in the heart of Berlin,40531040,Dario,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51496263356746,13.455005414267434,Entire home/apt,1,4,2016-05-16,0.12,1,0
+14131037,Orientalisches Flair - Zimmer zentral in Berlin,77750998,Armin,Charlottenburg-Wilm.,Volkspark Wilmersdorf,52.481312625252244,13.330178875965464,Private room,2,0,,,2,323
+8534059,Sunny flat in Neukölln,11844012,Mira,Neukölln,Neuköllner Mitte/Zentrum,52.47128668062644,13.437558758819884,Entire home/apt,6,5,2016-09-25,0.13,1,0
+20259327,Cozy and central room in Berlin,12928499,Nico,Charlottenburg-Wilm.,Volkspark Wilmersdorf,52.47931481665857,13.327590409795,Private room,20,0,,,1,0
+29454172,Apartment “Adler-Nest” in Berlin Kurfürstendamm,15145288,Agnes,Charlottenburg-Wilm.,Halensee,52.49798146196965,13.286173440384614,Entire home/apt,1,1,2018-11-07,1.0,3,138
+27211922,Nice Room in the center of Berlin,81243480,Adrian,Mitte,Moabit Ost,52.53193696189169,13.348285396563027,Private room,5,4,2018-09-30,1.5,1,0
+22991038,Huge Space in Bohemian Flat in Central Berlin,111228003,Elisabeth,Mitte,Alexanderplatz,52.52276829831186,13.386383074991816,Private room,2,22,2018-10-20,2.52,1,22
+26488009,"Central, small and cozy studio apartment",9370421,Jens,Pankow,Prenzlauer Berg Südwest,52.53805245967595,13.423690273375163,Entire home/apt,2,4,2018-10-17,1.18,1,67
+21993838,"Modern City Loft, Prenzlauer Berg, mit Parkplatz",43109610,Ludwig,Pankow,Helmholtzplatz,52.54648706528315,13.419293948238108,Entire home/apt,1,25,2018-09-30,2.21,3,322
+11144832,Tolle Wohnung mit Blick ins Grüne,21488682,Tobias,Neukölln,Schillerpromenade,52.47332774659111,13.424346403529904,Entire home/apt,1,0,,,1,0
+14045821,Zentral wohnen: Berlin entdecken!,14602885,Claudia,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.501793430920145,13.409590477048875,Entire home/apt,3,2,2016-08-17,0.07,1,0
+11163826,Cozy 1 Room flat in stylish Fhain,58068423,Miro,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.51891348036635,13.46440427163841,Entire home/apt,2,156,2018-10-26,4.81,1,17
+6609922,,34587133,Regina,Neukölln,Rixdorf,52.47954303944678,13.44213419658857,Private room,1,0,,,1,0
+23875821,Altbau-Dielen-Stuck-Balkon in belebter Szene-Lage,5217997,Teresa,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.510021102949025,13.457359217218185,Entire home/apt,2,6,2018-09-16,0.82,2,0
+20187194,Nice and calm flat close to Tempelhofer Feld,77248034,Jörg,Neukölln,Schillerpromenade,52.469243267105405,13.422619763844445,Entire home/apt,10,9,2018-11-05,0.61,1,0
+21932588,70 m2 Bauhaus Perle im Norden von Berlins,7855791,Dmitry,Reinickendorf,Ost 1,52.5665016969137,13.367684045547776,Entire home/apt,2,5,2018-05-13,0.48,1,0
+10487584,Spacious room in sunny penthouse,17863336,Christian,Pankow,Pankow Süd,52.55758231713406,13.422631692330905,Private room,2,5,2016-07-02,0.15,2,0
+25967022,Zimmer Nähe S-Bahnhof Wedding,93010967,Christian,Mitte,Wedding Zentrum,52.55010313141089,13.364886326563973,Private room,3,2,2018-08-13,0.41,1,0
+24844434,2 Zimmer Traumapartment mit Blick auf Park,5431184,Conrad,Mitte,Brunnenstr. Süd,52.533268741156256,13.398573979670232,Entire home/apt,60,1,2018-07-31,0.3,4,279
+18322385,Kleines Domizil der gehobenen Klasse,126751719,Julia,Mitte,Moabit West,52.52765273508727,13.336408797456267,Entire home/apt,2,98,2018-11-06,5.28,1,10
+27823432,Cosy room in heart of Neukölln,38826273,Sanaz,Neukölln,Schillerpromenade,52.465918836939075,13.421106568646016,Private room,18,1,2018-10-01,0.79,1,20
+13808241,"cosy, charming two-room apartment",18528772,Larissa,Pankow,Prenzlauer Berg Nord,52.55081796140284,13.423465796686967,Entire home/apt,90,7,2017-03-13,0.26,1,166
+6339035,Spacious artist studio in Kreuzberg,8516422,Sador,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50375265140228,13.427505389278634,Private room,2,63,2016-11-21,1.49,1,304
+20745390,"Bright, airy room with balcony overlooking Berlin",50981720,Maria,Tempelhof - Schöneberg,Friedenau,52.470683198523815,13.331843184825745,Private room,7,0,,,2,37
+5872093,Schöne Wohnung über Ostern frei,30491159,Dana,Pankow,Helmholtzplatz,52.54757351825465,13.416925000605412,Entire home/apt,1,0,,,1,0
+29605687,Tempel of conciousness close to the panke canal,131964045,Felix,Mitte,Osloer Straße,52.55847055094261,13.389054723199987,Private room,2,1,2018-11-04,1.0,1,72
+6007840,"Big, cozy, privet room in Berlin!",17488394,Christina,Neukölln,Reuterstraße,52.48818026520904,13.434288319313788,Private room,3,77,2018-10-23,1.8,1,286
+9168926,Gemütliches Studentenzimmer:)),5650744,Katharina,Mitte,Wedding Zentrum,52.55213009536261,13.37839197334308,Private room,10,0,,,1,0
+26003304,Comfy bedroom in the heart of Neukölln,3188892,Christian,Neukölln,Rixdorf,52.47921648292832,13.443753767103358,Private room,3,5,2018-09-24,1.16,1,6
+10893640,Gemütliche Übernachtung im Altbau.,36013814,Martin,Mitte,Brunnenstr. Nord,52.54080187115824,13.367585300196529,Private room,4,11,2018-10-13,0.33,1,49
+20739278,27qm-old-building family-friendly close to KaDeWe,137155274,Tim,Tempelhof - Schöneberg,Schöneberg-Süd,52.491790355260626,13.34485156373441,Private room,3,7,2018-07-21,0.51,1,119
+19715617,"Charmante, helle Altbauwohnung im Prenzlauer Berg",40056528,Olga,Pankow,Helmholtzplatz,52.546248591652116,13.415584667307147,Entire home/apt,2,14,2018-07-29,0.9,1,0
+20867652,charming and spacious one room apartment,148491809,Philipp,Mitte,Moabit Ost,52.530305755609156,13.344396280798,Entire home/apt,2,1,2017-10-21,0.08,1,0
+4488916,"Hell, gemütlich und Mitten im Kiez",11367258,Magdalena,Neukölln,Reuterstraße,52.48324452388749,13.436588367384815,Entire home/apt,1,4,2016-04-29,0.08,1,0
+11986645,Chillout-WG 2015 Vol 2,43471647,Thomas,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.518741887017576,13.465561713707562,Private room,5,3,2016-09-07,0.1,4,0
+22169921,Quiet flat in Neukölln,125281978,Hans,Neukölln,Schillerpromenade,52.473541711591864,13.424987830246444,Entire home/apt,3,7,2018-09-16,0.67,1,5
+3446751,Quiet Room in the Heart of Berlin,17370324,Kim,Pankow,Prenzlauer Berg Süd,52.52695985531714,13.417633755357087,Private room,3,138,2018-10-30,2.63,1,35
+13188184,Beautiful flat in Kreuzberg-Neukölln,67420793,Sonia,Neukölln,Reuterstraße,52.48702218588765,13.430511293174483,Entire home/apt,3,9,2018-07-02,0.31,1,0
+28365580,1-room apartment in Berlin-Friedrichshain,214095008,Helge,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Nord,52.521218649787045,13.434893649125815,Entire home/apt,3,10,2018-11-05,6.25,1,0
+22028578,Lovely apartment in Prenzlauer Berg,21416410,Rui Miguel,Pankow,Prenzlauer Berg Süd,52.53734422053552,13.424789351655955,Entire home/apt,5,0,,,1,0
+24016691,Central! Studio ‚Wild monkey’ with balcony!,44161082,Carina,Tempelhof - Schöneberg,Schöneberg-Nord,52.50115604680385,13.344868878964796,Entire home/apt,4,27,2018-11-04,3.7,2,86
+28920959,Eigenes Zimmer für 2 Personen mit Gemeinschaftdbad,217999184,Tom,Mitte,Wedding Zentrum,52.54080093164311,13.35876866912194,Private room,1,2,2018-10-28,1.58,1,18
+11711267,Cosy Apartment in Berlin-Neukölln,23883024,Birte,Neukölln,Rixdorf,52.480762098199065,13.449038781524058,Entire home/apt,1,1,2016-04-01,0.03,1,0
+5166102,Zimmer mit Balkon// Room with Balcony in WEDDING,26720949,Lara,Mitte,Parkviertel,52.55159764293793,13.350550940656838,Private room,8,1,2016-04-01,0.03,1,0
+16833423,Romantic Room with luxury bath and own entrance,2425543,Boris,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50465633008422,13.418559511297973,Private room,2,1,2017-02-15,0.05,1,0
+15031234,Spacious Room in Great Location,86857088,Dan,Neukölln,Reuterstraße,52.49305595856806,13.428976270458405,Private room,1,6,2017-03-12,0.23,1,0
+8663416,ruhiger Hinterhof in guter Lage,19146007,Frauke,Neukölln,Neuköllner Mitte/Zentrum,52.46614037987385,13.445883295098312,Private room,2,3,2015-11-09,0.08,1,0
+20723427,Sunny Designer’s Retreat – 2 Mins Walk to Metro ☀️,44473569,Daniel,Mitte,Wedding Zentrum,52.55285075613978,13.380335064779885,Private room,1,19,2018-10-27,1.5,2,365
+27042062,Berliner Zimmer,187653504,Ralf,Neukölln,Reuterstraße,52.49310967856877,13.426302737951946,Private room,5,14,2018-10-22,4.12,1,128
+24793202,"Möbliertes Zimmer, 25 qm, Altbau",91654440,Josef,Tempelhof - Schöneberg,Tempelhof,52.45800308455114,13.383628071144944,Private room,1,31,2018-10-31,6.89,1,19
+18668100,Wedding in Style,10688769,Torsten,Mitte,Wedding Zentrum,52.55288818255058,13.375797929397116,Private room,2,19,2018-11-04,1.08,1,2
+347762,Wonderful room  around Bergmannkiez,1744018,Kay,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48835740261553,13.393651349794233,Private room,2,81,2018-09-03,1.01,2,0
+6830443,Schöne Altbauwohnung im 4.Stock,21588751,Tobias,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48713211923912,13.376855152663778,Entire home/apt,5,2,2016-08-07,0.07,1,0
+16277525,"Lovely Kreuzberg Nest, 10 min from centre",64385759,Tamara,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.492707345001456,13.391031997635011,Private room,2,24,2018-10-19,1.04,1,0
+19133787,Ruhiges Zimmer im Herzen von Friedrichshain,37864815,Juliette,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.512367676609365,13.456760085059422,Private room,2,11,2018-10-21,0.64,1,70
+7849941,Helles Zimmer am Wasser 3,24064848,Anne,Treptow - Köpenick,Niederschöneweide,52.45398183821478,13.522591666152756,Private room,4,74,2018-10-23,1.9,3,84
+8095807,Furniture Room 18sqm with balcony,42751688,Caroline,Neukölln,Rixdorf,52.4735157269664,13.45070374884033,Private room,3,9,2016-05-09,0.23,1,0
+21874591,"1 Room Apt. Kreuzberg, bright, quite, central",153779375,Thomas,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.499783592639076,13.442277333081028,Entire home/apt,2,31,2018-11-02,2.83,1,20
+23797584,Cozy studio apartment in Neukölln,178567571,John,Neukölln,Schillerpromenade,52.466122732051154,13.426985526364561,Entire home/apt,2,10,2018-10-17,1.46,1,42
+7719851,Sunny flat in Berlin-Neukölln,40563085,Hauke,Neukölln,Rixdorf,52.4826089060594,13.453638663285544,Entire home/apt,2,13,2017-11-06,0.33,1,0
+14960879,"Beautiful, light bedroom in Wilmersdorf",94193668,Michelle,Charlottenburg-Wilm.,Düsseldorfer Straße,52.48934193799797,13.30690973014245,Private room,13,0,,,1,0
+24392236,cosy room in shared artist studio,37580772,Sarah & Bongjun,Neukölln,Rixdorf,52.47774736695592,13.448794463103127,Private room,2,16,2018-11-04,2.45,1,32
+12908373,Ruhiges Zimmer in heller Wohnung mit Balkon,6753178,Martin,Tempelhof - Schöneberg,Tempelhof,52.461102298060844,13.381031720726519,Private room,1,3,2016-07-04,0.1,1,0
+1434704,Comfy sweet flat Prenzlauer Berg,1250188,Sandra,Pankow,Helmholtzplatz,52.54186752264846,13.417135407854984,Entire home/apt,1,10,2017-10-23,0.16,1,304
+15120423,Berlin Friedrichshain (Apartment),95823552,René,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51224922465462,13.467638148805065,Private room,5,107,2018-11-05,4.19,1,8
+16551948,Wohnung-Studio in Spandau (6.2),79430806,Katya,Spandau,Spandau Mitte,52.53617971557786,13.18962897332252,Entire home/apt,30,3,2018-08-20,0.14,19,319
+16879513,Lovely bedroom in Neukoelln =^.^= *eco power*,30701537,Anna,Neukölln,Rixdorf,52.48086239434878,13.44140690308362,Private room,2,53,2018-11-02,2.5,2,23
+17248175,Quiet and great room near Eastside/Warschauer Road,116070703,Kira,Treptow - Köpenick,Oberschöneweide,52.46732119437786,13.515246176085313,Private room,2,67,2018-11-04,3.28,1,22
+15895668,"Modernes 1,5 Zimmer Apartment",8912086,René,Tempelhof - Schöneberg,Tempelhof,52.45741162494436,13.377540498312682,Entire home/apt,30,1,2017-06-01,0.06,26,152
+7520444,Huge Room near Charl. Palace!,13102495,Benjamin,Charlottenburg-Wilm.,Schloß Charlottenburg,52.51736437164035,13.299230077395626,Private room,3,9,2018-09-23,0.28,2,0
+19099053,Family-friendly apartment in the center of Berlin,133417034,Annett,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.514971906583966,13.470265675304411,Entire home/apt,2,72,2018-11-03,4.25,1,218
+4656334,Cosy Studio in Trendy Neukölln,24099630,Anna,Neukölln,Schillerpromenade,52.466924620777895,13.425367049640606,Entire home/apt,5,6,2018-04-02,0.13,1,0
+5086883,BRIGHT & COZY room in a modern flat,1133508,Monique & Robert,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50917303850813,13.464350524496258,Private room,2,222,2018-11-04,4.93,1,59
+16271808,Small carriage house in Berlin-Charlottenburg,2054136,Elisabeth,Charlottenburg-Wilm.,Kantstraße,52.50753855067642,13.30979899040486,Entire home/apt,3,3,2018-01-02,0.23,1,0
+28156051,K,122978296,Theresa,Pankow,Pankow Süd,52.56740584716886,13.416415297289891,Private room,1,3,2018-09-18,1.58,1,19
+24145438,The Dream.,42848396,Lena,Mitte,Brunnenstr. Nord,52.541311667679956,13.372464812476904,Private room,6,3,2018-09-07,0.41,1,0
+9354855,Comfortable Flat in Prenzlberg,40764363,Helena,Pankow,Prenzlauer Berg Ost,52.535384007411956,13.437423754064035,Entire home/apt,3,5,2016-09-02,0.14,3,0
+21794414,Cosy Bedroom in Best Prenzlauer Berg Location,8044170,Stephan & Adele,Pankow,Helmholtzplatz,52.5408329366794,13.417605229246275,Private room,1,2,2018-07-24,0.17,2,292
