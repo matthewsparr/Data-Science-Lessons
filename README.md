@@ -47,3 +47,4 @@
 | KNN and SVM | https://www.youtube.com/watch?v=1j3I3pExM1k | February 17, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/KNN%20and%20SVM |
 | Clustering | https://www.youtube.com/watch?v=Er9hdK_xfa4 | February 19, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Clustering |
 | PCA | https://www.youtube.com/watch?v=pXCoBJIW_-M | February 24, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/PCA |
+| Recommendation Systems | https://youtu.be/t44YEDNnnBE | February 26, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Recommendation%20Systems |
