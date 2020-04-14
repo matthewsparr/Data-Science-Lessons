@@ -53,3 +53,5 @@
 | Intro to NLP | https://youtu.be/3pcFPtz2LCU | March 30th, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Intro%20to%20NLP |
 | Intro to Neural Networks | https://youtu.be/MhuUuHjYyI8 | April 1, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Intro%20to%20Neural%20Networks |
 | Tuning Neural Networks | https://youtu.be/yqWd9kJwNtQ | April 6, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Tuning%20Neural%20Networks |
+| Convolutional Neural Networks | https://youtu.be/XKp-5lbWwN8 | April 8, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Convolutional%20Neural%20Networks |
+| Deep NLP | https://youtu.be/oRPsBy9b5ZM | April 13, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Deep%20NLP |
