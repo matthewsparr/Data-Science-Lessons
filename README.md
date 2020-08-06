@@ -13,25 +13,25 @@
 | Multiple Linear Regression | https://youtu.be/zaOGXM0MtSw | September 11, 2019| - |
 | Supplementary - Non-Technical Presentations & Readmes | https://youtu.be/xNOr6YXr6Es | September 23, 2019 | - |
 | **Mod 2** | 
-| SQL | https://www.youtube.com/watch?v=rK1ZdP_FGaA | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/SQL |
-| OOP | https://www.youtube.com/watch?v=AsC_O3slBBQ | October 2, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/OOP |
-| JSON, XML, Recursion | https://www.youtube.com/watch?v=7H81tJgCSQ4 | October 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/JSON-XML-Recur |
-| APIs | https://youtu.be/OwpJYd-zJGI | October 10, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/APIs |
-| Web Scraping | https://youtu.be/V9a879vpyZY | October 14, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Web%20Scraping |
-| More SQL and Web Scraping | https://youtu.be/ulPvDfpQc5M | October 16, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Extra%20SQL%2C%20Web%20Scraping |
-| NoSQL and MongoDB | https://youtu.be/vawZ3reAKaM | October 21, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/MongoDB |
-| End of Mod 2 Lab | https://youtu.be/DRNeLMGrJ_s | October 23, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
-| End of Mod 2 Lab - Part 2 | https://youtu.be/RMSAUmHlNxM | October 24, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/End%20of%20Mod%202 |
+| SQL | https://www.youtube.com/watch?v=rK1ZdP_FGaA | September 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/SQL |
+| OOP | https://www.youtube.com/watch?v=AsC_O3slBBQ | October 2, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/OOP |
+| JSON, XML, Recursion | https://www.youtube.com/watch?v=7H81tJgCSQ4 | October 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/JSON-XML-Recur |
+| APIs | https://youtu.be/OwpJYd-zJGI | October 10, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/APIs |
+| Web Scraping | https://youtu.be/V9a879vpyZY | October 14, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/Web%20Scraping |
+| More SQL and Web Scraping | https://youtu.be/ulPvDfpQc5M | October 16, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/Extra%20SQL%2C%20Web%20Scraping |
+| NoSQL and MongoDB | https://youtu.be/vawZ3reAKaM | October 21, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/MongoDB |
+| End of Mod 2 Lab | https://youtu.be/DRNeLMGrJ_s | October 23, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/End%20of%20Mod%202 |
+| End of Mod 2 Lab - Part 2 | https://youtu.be/RMSAUmHlNxM | October 24, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%202/End%20of%20Mod%202 |
 | **Mod 3** |
-| Probability  | https://youtu.be/Hmp-AfYPK9s | October 28, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Probability |
-| Permutations and Combinations | https://www.youtube.com/watch?v=2zPtORZjf4E | October 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Permutations%20and%20Combinations |
-| PMF, CDF, Bernouli, Binomial, Poisson | https://youtu.be/w6GCI9WoZsk | November 4, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Distributions |
+| Probability  | https://youtu.be/Hmp-AfYPK9s | October 28, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Probability |
+| Permutations and Combinations | https://www.youtube.com/watch?v=2zPtORZjf4E | October 30, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Permutations%20and%20Combinations |
+| PMF, CDF, Bernouli, Binomial, Poisson | https://youtu.be/w6GCI9WoZsk | November 4, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Distributions |
 | Continuous Distributions | https://youtu.be/dNGfx-FIIMA | November 6, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Distributions | 
-| CLT and Confidence Interals | https://youtu.be/l0m-7z2kQqg | November 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/CLT%20and%20Confidence%20Intervals | 
-| Hypothesis Testing and Effect Size | https://youtu.be/t-MEfcddmCo | November 11, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Hypothesis%20Testing | 
+| CLT and Confidence Interals | https://youtu.be/l0m-7z2kQqg | November 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/CLT%20and%20Confidence%20Intervals | 
+| Hypothesis Testing and Effect Size | https://youtu.be/t-MEfcddmCo | November 11, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Hypothesis%20Testing | 
 | Power and  ANOVA | https://youtu.be/kP8qmVHhKvY | November 13, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Power%20and%20ANOVA |
 | AB Testing and Bayesian Stats | https://youtu.be/rlsflAmJl34 | November 18, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/AB%20Testing%20and%20Bayesian%20Stats | 
-| Resampling | https://youtu.be/id6V5nOkuvY | November 20, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Resampling |
+| Resampling | https://youtu.be/id6V5nOkuvY | November 20, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Resampling |
 | **Mod 4** | 
 | Linear Algebra and Matrices | https://youtu.be/FUvXLBD4gkw | December 16, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%204/Linear%20Algebra%20and%20Matrices | 
 | Calculus and Gradient Descent | https://youtu.be/5aOyHGLb1wg | December 18, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%204/Calculus%20and%20Gradient%20Descent |
