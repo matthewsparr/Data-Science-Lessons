@@ -48,7 +48,7 @@
 | Clustering | https://www.youtube.com/watch?v=Er9hdK_xfa4 | February 19, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Clustering |
 | PCA | https://www.youtube.com/watch?v=pXCoBJIW_-M | February 24, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/PCA |
 | Recommendation Systems | https://youtu.be/t44YEDNnnBE | February 26, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Recommendation%20Systems |
-| Big Data, Pipelines, Mod 5 Projeaact | https://youtu.be/cz2WQOkVo3Q | March 2, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Big%20Data https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Pipelines |
+| Big Data, Pipelines, Mod 5 Project | https://youtu.be/cz2WQOkVo3Q | March 2, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Big%20Data https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%205/Pipelines |
 | **Mod 6** | 
 | Intro to NLP | https://youtu.be/3pcFPtz2LCU | March 30th, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Intro%20to%20NLP |
 | Intro to Neural Networks | https://youtu.be/MhuUuHjYyI8 | April 1, 2020 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%206/Intro%20to%20Neural%20Networks |
