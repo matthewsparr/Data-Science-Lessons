@@ -29,7 +29,7 @@
 | Continuous Distributions | https://youtu.be/dNGfx-FIIMA | November 6, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Distributions | 
 | CLT and Confidence Interals | https://youtu.be/l0m-7z2kQqg | November 7, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/CLT%20and%20Confidence%20Intervals | 
 | Hypothesis Testing and Effect Size | https://youtu.be/t-MEfcddmCo | November 11, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Hypothesis%20Testing | 
-| Power and  ANOVA | https://youtu.be/kP8qmVHhKvY | November 13, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Power%20and%20ANOVA |
+| Power and  ANOVA | https://youtu.be/kP8qmVHhKvY | November 13, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Mod%203/Power%20and%20ANOVA |
 | AB Testing and Bayesian Stats | https://youtu.be/rlsflAmJl34 | November 18, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/AB%20Testing%20and%20Bayesian%20Stats | 
 | Resampling | https://youtu.be/id6V5nOkuvY | November 20, 2019 | https://github.com/matthewsparr/Data-Science-Lessons/tree/master/Resampling |
 | **Mod 4** | 
